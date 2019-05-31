@@ -1,0 +1,111 @@
+# depslib dependency file v1.0
+1552357251 source:c:\users\administrator\desktop\算法练习\temp\temp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1556530117 source:c:\users\administrator\desktop\算法练习\学生信息管理系统\temp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+
+1556983707 source:c:\users\腾腾娃发光的板砖\desktop\c\算法练习\学生信息管理系统\temp\main.c
+	"head.h"
+
+1557137379 source:c:\users\腾腾娃发光的板砖\desktop\c\算法练习\学生信息管理系统\temp\login.c
+	<stdio.h>
+	<string.h>
+	"head.h"
+	<windows.h>
+
+1557058303 c:\users\腾腾娃发光的板砖\desktop\c\算法练习\学生信息管理系统\temp\head.h
+
+1557056185 source:c:\users\腾腾娃发光的板砖\desktop\c\算法练习\学生信息管理系统\temp\del_account.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1557056639 source:c:\users\腾腾娃发光的板砖\desktop\c\算法练习\学生信息管理系统\temp\query.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1556981274 source:c:\users\腾腾娃发光的板砖\desktop\c\算法练习\学生信息管理系统\temp\tongji.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1556983778 source:c:\users\腾腾娃发光的板砖\desktop\c\算法练习\学生信息管理系统\temp\sort.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1557059856 source:c:\users\腾腾娃发光的板砖\desktop\c\算法练习\学生信息管理系统\temp\change.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1557061507 source:c:\users\腾腾娃发光的板砖\desktop\c\算法练习\学生信息管理系统\temp\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1557059447 source:c:\users\腾腾娃发光的板砖\desktop\c\算法练习\学生信息管理系统\temp\add.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1556983243 source:c:\users\腾腾娃发光的板砖\desktop\c\算法练习\学生信息管理系统\temp\chart_print.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1557059575 source:c:\users\腾腾娃发光的板砖\desktop\c\算法练习\学生信息管理系统\temp\creat node.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1556982382 source:c:\users\腾腾娃发光的板砖\desktop\c\算法练习\学生信息管理系统\temp\manage menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1557056185 source:c:\users\腾腾娃发光的板砖\desktop\c\算法练习\学生信息管理系统\temp\read file.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1557056185 source:c:\users\腾腾娃发光的板砖\desktop\c\算法练习\学生信息管理系统\temp\save data.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1557064502 source:c:\users\腾腾娃发光的板砖\desktop\c\算法练习\学生信息管理系统\temp\start.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"head.h"
+
+1557137379 source:c:\users\腾腾娃发光的板砖\desktop\c\算法练习\学生信息管理系统\temp\user_add.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+

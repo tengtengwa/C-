@@ -1,0 +1,7 @@
+    for(i=0;i<=50;i++)
+    {
+        Sleep(30);
+        printf(">");
+    }
+    printf("\n");
+

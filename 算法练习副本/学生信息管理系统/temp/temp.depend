@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1552357251 source:c:\users\administrator\desktop\算法练习\temp\temp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1554980627 source:c:\users\administrator\desktop\算法练习\学生信息管理系统\temp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+
+1556194344 source:c:\users\administrator\desktop\算法练习副本\学生信息管理系统\temp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+
